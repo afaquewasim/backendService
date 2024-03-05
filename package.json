@@ -1,0 +1,16 @@
+{
+  "name": "backendservice",
+  "version": "1.0.0",
+  "description": "A playlist backend sevice",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "Afaque Wasim",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
